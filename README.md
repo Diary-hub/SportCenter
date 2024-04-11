@@ -1,2 +1,2 @@
-# sportcenter
-A very basic car part shop project for university
+# Sport Center
+A very basic sport  part shop project for the university
